@@ -25,3 +25,8 @@ Text.Subject {
     -fx-stroke-width: 3;
     -fx-font-size: 30;
 }
+
+Button {
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+}
